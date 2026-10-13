@@ -1,0 +1,12 @@
+/* Selected experience only: reuse the existing editorial hierarchy. */
+.inside-experience .experience-part{margin-top:64px;padding-top:40px;border-top:1px solid var(--line)}
+.inside-experience .experience-row{display:grid;grid-template-columns:25% 75%;gap:0;border-top:1px solid var(--line);padding:24px 0}
+.inside-experience .experience-row h3{font-size:10px;letter-spacing:1px;font-weight:500;margin:0;padding-right:20px}
+.inside-experience .experience-row p{font-size:14px;line-height:1.9;margin:0;max-width:680px}
+.inside-experience .experience-statement{font:26px/1.4 Georgia,serif;color:var(--ink);max-width:680px}
+.inside-experience .experience-programming{margin-top:32px;font-size:14px;line-height:1.9;max-width:680px}
+.inside-experience .experience-part>.results{margin-top:0}
+.inside-experience .diagnostic-rating{border-top:1px solid var(--line);padding-top:28px;margin-top:24px;margin-bottom:36px}
+.inside-experience .diagnostic-rating .stat{font-size:clamp(70px,8vw,120px);letter-spacing:-4px}
+.inside-experience .credentials p{max-width:680px}
+@media(max-width:650px){.inside-experience .experience-part{margin-top:42px;padding-top:30px}.inside-experience .experience-row{grid-template-columns:1fr;gap:12px}.inside-experience .experience-row p{font-size:13px}.inside-experience .experience-statement{font-size:23px}.inside-experience .diagnostic-rating .stat{font-size:76px}}

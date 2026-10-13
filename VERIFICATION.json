@@ -1,0 +1,20 @@
+{
+  "verified": [
+    "Approved non-enquiry section text and order unchanged",
+    "Existing responsive CSS unchanged (only functional form-state styles appended)",
+    "Logo byte-for-byte unchanged",
+    "Local assets, links and anchor destinations resolve",
+    "Four direct routes and repeated requests served via configured rewrite simulation",
+    "Canonical and social metadata present",
+    "Form static detection, fields, honeypot and option values validated",
+    "JS syntax and DOM behavior tests passed: intent selection, validation, simulated POST success/failure/network error, mobile menu state"
+  ],
+  "not_verified": [
+    "Live Netlify form detection and receipt",
+    "Email notification delivery to info@mcwconnect.com",
+    "Live domain/DNS/HTTPS",
+    "Browser visual QA at desktop/mobile sizes"
+  ],
+  "about_route": "Static alias of homepage document opening existing founders section; no new designed page",
+  "deployment_status": "Prepared export only; not deployed to Netlify or pushed to GitHub; Sites preview remains unchanged"
+}

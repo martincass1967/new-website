@@ -1,0 +1,27 @@
+.dark{background:#22251f;color:var(--paper);border-color:#505649}
+.dark em{color:#b8c4a1}.dark p{color:#c3c6b8}.dark .lead{color:var(--paper)}.dark .text-link{border-color:#989f8e}
+.origin-hero{padding-top:64px;padding-bottom:95px}
+.origin-hero h1{font:400 clamp(48px,6.1vw,94px)/1.08 Georgia,'Times New Roman',serif;letter-spacing:-3px;margin:50px 0 36px}
+.origin-hero .lead{max-width:770px;font-size:19px;line-height:1.8}
+.origin-hero-bottom{display:flex;align-items:flex-end;justify-content:space-between;gap:40px;margin-top:55px}
+.origin-hero-bottom>p{font:40px/1.2 Georgia,serif;margin:0;color:var(--paper)}
+.editorial-statement{font:400 clamp(26px,2.7vw,41px)/1.35 Georgia,serif;letter-spacing:-.6px;color:var(--ink);margin:38px 0 0}
+.market-dynamics{background:#eeeee6}.market-fields{display:grid;grid-template-columns:1fr 1fr;gap:75px;margin-top:55px}
+.market-fields article{border-top:1px solid var(--line);padding-top:28px}.market-fields h2{font-size:clamp(33px,3.3vw,50px);margin-top:25px}
+.market-fields p{font-size:14px;line-height:1.95;max-width:500px}.market-fields .market-principle{color:var(--ink);font:italic 22px/1.5 Georgia,serif;margin-top:30px}
+.origin-difference{padding-top:125px;padding-bottom:120px}.origin-difference h2{font-size:clamp(36px,4.4vw,67px);line-height:1.32;margin:55px 0 48px}
+.difference-bottom{display:grid;grid-template-columns:1fr 1fr;gap:80px;border-top:1px solid #505649;padding-top:35px}
+.difference-bottom>p:first-child{font-size:14px;line-height:1.95;max-width:500px}.difference-bottom .editorial-statement{margin:0;font-size:34px}
+.advantage-sequence h2{margin:45px 0 55px 25%}.advantage-row{display:grid;grid-template-columns:25% 75%;border-top:1px solid var(--line);padding:28px 0;gap:0}
+.advantage-row h3{font-size:10px;letter-spacing:1.1px;font-weight:400;margin:5px 20px 0 0}.advantage-row p{max-width:710px;font-size:16px;line-height:1.8;margin:0}
+.access-judgment{background:#e4e8db;padding-top:120px;padding-bottom:105px}.access-judgment h2{font-size:clamp(42px,5vw,76px);margin:45px 0 35px}
+.judgment-copy{display:grid;grid-template-columns:1.2fr 1fr;gap:80px;max-width:1000px}.judgment-copy .lead{font-size:18px}.judgment-copy>p:last-child{font-size:14px;line-height:1.9}
+.judgment-lines{display:flex;justify-content:space-between;gap:35px;border-top:1px solid #c4cab8;padding-top:25px;margin-top:25px;font:22px/1.5 Georgia,serif}
+.product-distinction{border-top:1px solid var(--line);padding-top:23px;margin-top:38px;font-size:12px;color:var(--ink)}.product-distinction span{display:inline-block;margin-left:40px;color:var(--muted)}
+.origin-principle{padding-top:85px;padding-bottom:85px}.origin-principle h2{margin:45px 0 28px;font-size:clamp(38px,4.2vw,64px)}.origin-principle .lead{font-size:17px}
+.origin-closing{padding-top:135px;padding-bottom:130px}.origin-closing h2{font-size:clamp(40px,4.7vw,72px);margin:45px 0 30px}.origin-closing .lead{font-size:17px;margin-bottom:40px}
+@media(max-width:900px){.origin-hero h1{letter-spacing:-2px}.market-fields,.difference-bottom{gap:40px}.judgment-copy{gap:40px}.judgment-lines{font-size:19px}.advantage-row{grid-template-columns:22% 78%}.advantage-sequence h2{margin-left:22%}}
+@media(max-width:650px){.origin-hero{padding-top:42px;padding-bottom:65px}.origin-hero h1{font-size:46px;letter-spacing:-2px;margin:35px 0 28px}.origin-hero .lead{font-size:16px}.origin-hero-bottom{display:block;margin-top:35px}.origin-hero-bottom>p{font-size:34px;margin-bottom:30px}.editorial-statement{font-size:30px}.market-fields{grid-template-columns:1fr;gap:35px;margin-top:35px}.market-fields h2{font-size:35px}.market-fields p{font-size:13px}.origin-difference{padding-top:75px;padding-bottom:70px}.origin-difference h2{font-size:34px;margin:35px 0 30px}.difference-bottom{grid-template-columns:1fr;gap:15px}.difference-bottom .editorial-statement{font-size:29px}.advantage-sequence h2{margin:32px 0}.advantage-row{grid-template-columns:1fr;gap:15px;padding:24px 0}.advantage-row p{font-size:14px}.access-judgment{padding-top:80px;padding-bottom:75px}.access-judgment h2{font-size:43px;margin:32px 0}.judgment-copy{grid-template-columns:1fr;gap:0}.judgment-copy .lead{font-size:16px}.judgment-lines{flex-direction:column;gap:12px;font-size:22px}.product-distinction span{display:block;margin:8px 0 0}.origin-principle{padding-top:78px;padding-bottom:72px}.origin-principle h2{font-size:37px;margin:32px 0 25px}.origin-closing{padding-top:85px;padding-bottom:80px}.origin-closing h2{font-size:40px;margin:32px 0 25px}.origin-closing .lead{font-size:15px}}
+
+.advantage-row .mechanism-title{font:400 24px/1.4 Georgia,serif;color:var(--ink);margin:0 0 10px}.origin-ending{padding-top:55px;padding-bottom:65px}
+ .market-fields .editorial-statement{font:400 clamp(26px,2.7vw,41px)/1.35 Georgia,serif;letter-spacing:-.6px;margin:38px 0 0}

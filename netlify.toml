@@ -1,0 +1,50 @@
+[build]
+  publish = "public"
+
+[[redirects]]
+  from = "/inside/"
+  to = "/inside"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/inside"
+  to = "/inside/index.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/origin/"
+  to = "/origin"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/origin"
+  to = "/origin/index.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/about/"
+  to = "/about"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/about"
+  to = "/about/index.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/connect"
+  to = "/inside"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/connect/"
+  to = "/inside"
+  status = 301
+  force = true

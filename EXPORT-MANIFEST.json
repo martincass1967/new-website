@@ -1,0 +1,27 @@
+{
+  "source_commit": "c97a59fed26ad0c56febc106f66ba9c7c3ae2dc8",
+  "files": {
+    ".gitignore": "8af7cc75b8bcf523742d1b0592d48a1f11faac2fe24ba3f9f2694c013fa3ad32",
+    "README.md": "11080ae8c2a4414f72ed74fb172a8478f73c4a32206432d9617ffa7c55098848",
+    "VERIFICATION.json": "352427a92760d995cf10fb8111c4f693931195a967bd4a962caefd17bdde05e0",
+    "netlify.toml": "e788c588924a656e08fd68c39922acfbaf302f0e761523d359e97eba7ddd7d78",
+    "public/about/index.html": "a9de01bb1820810babf4e3b36cd11b47f72f53a53e07b859ee3230b0ac7ffce9",
+    "public/app.js": "7a7dd8d2e0da0f84fae9f6ed65ddbb66927ccf1e950a61f9e4bc1454165fb828",
+    "public/assets/favicon.png": "0b8ac246cc7734f29904ebefcce3159f49771956522f0416e0aa00e17b41aa56",
+    "public/assets/mcw-connect-approved-b4.png": "1c3ff741e343161e54753aa40040c548b2127904b5970a77b8942f4d3bd4d409",
+    "public/assets/mcw-logo.png": "133191b98aa3a6c08dd0791badfcab188b96ffd08897b6f2e4fd21f3195b9140",
+    "public/assets/social-preview.png": "c13e682d0f3420465b07e89e99badbd15c1988efcb97226fe848497a69ca08d8",
+    "public/connect/connect.css": "4a640b80cf4f5dca90851d50a9bc062a737a66f2f11eb1b30a4a9f5da243c20b",
+    "public/connect/connect.js": "c69fe0c6dd5045d3c572581cbf1c70ec887046c555d00baa207bc1af52090d06",
+    "public/connect/index.html": "54b9085fc6631e1357a7cd448dd781c74a7417a7381ba839ff6e501738496227",
+    "public/index.html": "539b3bf780546fe96c6ab05fa9779018cd54dc389ac7f478a1c0e182453cb2b1",
+    "public/inside/experience.css": "be1cc95f60a6b1951568e421f20339ae0675210cb4ad20f345710e99a72627e0",
+    "public/inside/index.html": "c9d3a22df1de1282d7f55aae0b4cf36940b442f7c3398f9ae5fd791c17ced167",
+    "public/origin/index.html": "f459a82f2c6f0c6fc55f1c96c3bdbb6079d091a8bceb23856b413b61c0650c3d",
+    "public/origin/origin.css": "a112422a1afd3bf63ea87ced7f75e9e79561291f282a8c93357f7b43d9f1e0b9",
+    "public/origin/origin.js": "c69fe0c6dd5045d3c572581cbf1c70ec887046c555d00baa207bc1af52090d06",
+    "public/robots.txt": "a4a7f465dc6f24c88677b3f95366efabc4912e25b2a21972805c971ad1d5d151",
+    "public/sitemap.xml": "7a957f209ea68def8846f3bcf18bbc53e3340a3767d794ba82177bac846bdf94",
+    "public/style.css": "d0aeca2469c13695b657112c9fd9ac56b17cea1cbabb093e9b4b986e98d3318f"
+  }
+}
