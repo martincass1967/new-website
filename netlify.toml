@@ -1,2 +1,3 @@
 [build]
   publish = "public"
+#Redeploy directly to main
